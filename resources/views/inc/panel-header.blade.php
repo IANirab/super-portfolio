@@ -104,6 +104,8 @@
 
             <li><a href="{{ url('/meta') }}" class="waves-effect"><i class="fa fa-circle-o text-red"></i> <span>Meta</span></a></li>
 
+            <li><a href="{{ url('/user-settings') }}" class="waves-effect"><i class="fa fa-circle-o text-red"></i> <span>User Settings</span></a></li>
+
             <li><a href="{{ url('/logout') }}" class="waves-effect"><i class="fa fa-circle-o text-red"></i> <span>Log-Out</span></a></li>
 
         </ul>

@@ -1,0 +1,2 @@
+<?php echo $__env->make('inc.panel-header', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->make('inc.panel-footer', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\Users\nirab\Documents\Laravel\personal\resources\views/admin/dashboard.blade.php ENDPATH**/ ?>

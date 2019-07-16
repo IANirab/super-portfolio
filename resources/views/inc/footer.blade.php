@@ -2,7 +2,7 @@
 		<footer>
 			<div class="container text-center">
 				<div class="row">
-					<p>Copy Right 2018 &copy; By Daniels All Rights Reserved</p>
+					<p>Copy Right 2018 &copy; By <a href="https://wphostbd.net" target="_blank">WpHostBD.net</a> All Rights Reserved</p>
 				</div>
 			</div>
 		</footer>
